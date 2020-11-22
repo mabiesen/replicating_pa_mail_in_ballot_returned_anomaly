@@ -68,3 +68,7 @@ Q: What do the different columns of the csv data actually mean?
 A: Greg on the right, in his video, shows an explanation  for each column in the dataset.  It was not the purpose of this study to evaluate what the columns mean, the only goal of this repository is to prove that Greg had access to data (now taken away by PA authorities), and that Greg was attempting  his best efforts at analysis by comparing the returned and mailed dates.
 
 I've seen what happened to the Covington kids, I've seen what's happened to those in the media who decide to air Trump-endorsed phenomenon.  This repository is me doing my part to prevent mischaractarization of those who challenge mainstream authority. If it is determined a misunderstanding occurred, so-be-it, nonetheless this kid "Greg On the Right" did his best to uncover faulty practices, I intend to help him keep his good name by showing the data existis and his analysis is replicable.
+
+Q: Greg used Excel, which everyone has.  Why didnt you provide the code as excel capable?
+
+A: As Greg noted in his Tik-Tok video, Excel is limited to  only holding 'x' number of rows.  The Ruby programming language has no such problem, one can read csv to memor without the application freezing.  Why Ruby? Because I wanted this to be quick, and this is the language I am working with presently.
