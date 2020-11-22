@@ -71,4 +71,4 @@ I've seen what happened to the Covington kids, I've seen what's happened to thos
 
 Q: Greg used Excel, which everyone has.  Why didnt you provide the code as excel capable?
 
-A: As Greg noted in his Tik-Tok video, Excel is limited to  only holding 'x' number of rows.  The Ruby programming language has no such problem, one can read csv to memor without the application freezing.  Why Ruby? Because I wanted this to be quick, and this is the language I am working with presently.
+A: As Greg noted in his Tik-Tok video, Excel is limited to  only holding 'x' number of rows.  The Ruby programming language does not encounter this issue, one can read csv to memory without the application freezing or rejecting the data.  Why Ruby? Because I wanted this to be quick, and this is the language I am working with presently.
