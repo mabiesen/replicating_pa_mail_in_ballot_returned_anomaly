@@ -1,8 +1,6 @@
 # Replicating Results of the Returned-before-mailed-in ballot anomaly in Pennsylvania (as per Greg On The Right)
 
-The purpose of this repository is to replicate the work. of 'Greg on the right' and store the information in. such a way that anyone may replicate the results
-
-No credence was given to the claim until the results were replicated
+The purpose of this repository is to replicate the work of 'Greg on the right', who discovered that Pennsylvania ballots had a return date that occurred before the ballots mailed in date.  This repository seeks to store the information in such a way that anyone may replicate the results
 
 ## METHOD
 
@@ -13,11 +11,13 @@ No credence was given to the claim until the results were replicated
 
 The intention is for the user to retrieve their own data from the link provided in the RESOURCES section of this page
 
-The user must have working ruby (I dont think version matters at all).
+The user must have a working ruby setup (I dont think version matters at all).
 
 The user must run the ruby script titled 'script_to_show_pennsylvania_discrepancy.rb' in this repository
 
 When prompted by the script, the  user must provide the path  to the csv data that they  downloaded locally.
+
+Please review the script for innacuracies, I aim to be more transparent than our voting process.
 
 ## CONCLUSION
 
@@ -41,10 +41,10 @@ The source data greg references was removed from the pennsylvania website.
 
 However, after some sleuthing, the URL to retrieve data has been discovered to exist at archive.org
 
-The following link is the parent page which exposes this data:
+The following link is the parent page which exposes this data, compliments of archive.org:
 
 https://web.archive.org/web/20201109204937/https://data.pa.gov/Government-Efficiency-Citizen-Engagement/2020-General-Election-Mail-Ballot-Requests-Departm/mcba-yywm
 
-The following link is the actual link where you can retrieve my data for replication:
+The following link is the actual link where you can retrieve my data for replication, compliments of archive.org:
 
 https://web.archive.org/web/20201115001813mp_/https://data.pa.gov/api/views/mcba-yywm/rows.csv?accessType=DOWNLOAD
