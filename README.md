@@ -9,6 +9,16 @@ No credence was given to the claim until the results were replicated
 * Downloaded the csv locally (via browser)
 * ran the ruby script located in this repo on the data set.  Script compares mailed vs returned dates.
 
+## REPLICATING RESULTS
+
+The intention is for the user to retrieve their own data from the link provided in the RESOURCES section of this page
+
+The user must have working ruby (I dont think version matters at all).
+
+The user must run the ruby script titled 'script_to_show_pennsylvania_discrepancy.rb' in this repository
+
+When prompted by the script, the  user must provide the path  to the csv data that they  downloaded locally.
+
 ## CONCLUSION
 
 "Greg on the right"'s results have been replicated, insofar as the data he used is the data I used.
