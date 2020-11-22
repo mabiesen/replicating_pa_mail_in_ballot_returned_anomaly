@@ -4,13 +4,24 @@ The purpose of this repository is to replicate the work. of 'Greg on the right' 
 
 No credence was given to the claim until the results were replicated
 
-# CONCLUSION
+## METHOD
+
+* Downloaded the csv locally (via browser)
+* ran the ruby script located in this repo on the data set.  Script compares mailed vs returned dates.
+
+## CONCLUSION
 
 "Greg on the right"'s results have been replicated, insofar as the data he used is the data I used.
 
-In total,  58,221 ballots had a return date on or before mail date
+Here is the output of my script:
+```
+Total count for ballots returned before mailed: 23305
+Total count for ballots whose return date is equal to the mailed date: 34916
 
-# RESOURCES
+IN TOTAL:  this is the count of ballots returned on or before the mailed date: 58221
+```
+
+## RESOURCES
 
 The article which sparked my inquiry may be found here:
 
