@@ -13,7 +13,7 @@ This repository seeks to store the information in such a way that anyone may rep
 ## METHOD
 
 * Downloaded the csv locally (via browser)
-* ran the ruby script located in this repo on the data set.  Script compares mailed vs returned dates.
+* ran the [ruby script located in this repo](script_to_show_pennsylvania_discrepancy.rb) on the data set.  Script compares mailed vs returned dates.
 
 ## REPLICATING RESULTS
 
