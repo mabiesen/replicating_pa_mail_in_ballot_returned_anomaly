@@ -4,9 +4,9 @@ This repo has been saved to archive.org for future reference:
 
 https://web.archive.org/web/20201122054408/https://github.com/mabiesen/replicating_pa_mail_in_ballot_returned_anomaly/blob/main/script_to_show_pennsylvania_discrepancy.rb
 
-The purpose of this repository is to replicate the work of 'Greg on the right', who discovered that Pennsylvania ballots had a return date that occurred before the ballots mailed in date(as per Pennsylvanias own online, once-publicly-available data). Gregs original Tik-Tok post didnt share the source url, we share this detail in this repository as well as a link to the article where one can view gregs tik tok.
+The purpose of this repository is to replicate the work of 'Greg on the right', who discovered that Pennsylvania ballots had a return date that occurred before the ballots mailed in date(as per Pennsylvanias own online, once-publicly-available data). Gregs original Tik-Tok post didnt share the source url, we share this detail in this repository as well as a link to the article where one can view Gregs Tik-Tok.
 
-Why did I get so interested in  this?  1) tik tok removed "greg on the right"'s video,  2) Pennsylvania tried to remove the source data (its gone but not forgotten! see the archive.org link in the RESOURCES section of this document),  3) Data should always be replicated by a peer, in full transparency, before it is considered truth.
+Why did I get so interested in  this?  1) Tik-Tok removed "Greg on the right"'s video,  2) Pennsylvania tried to remove the source data (its gone but not forgotten! see the archive.org link in the RESOURCES section of this document),  3) Data should always be replicated by a peer, in full transparency, before it is considered truth.
 
 This repository seeks to store the information in such a way that anyone may replicate the results
 
@@ -45,7 +45,7 @@ The article which sparked my inquiry may be found here:
 
 https://web.archive.org/web/20201121213002/https://www.thegatewaypundit.com/2020/11/breaking-video-young-internet-sleuth-reveals-evidence-showing-23k-pa-ballots-filled-returned-ever-mailed-voters/
 
-The source data greg references was removed from the Pennsylvania website.
+The source data Greg references was removed from the Pennsylvania website.
 
 However, after some sleuthing, the URL to retrieve data has been discovered to exist at archive.org
 
