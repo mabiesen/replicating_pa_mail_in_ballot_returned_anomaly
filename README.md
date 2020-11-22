@@ -21,7 +21,7 @@ The intention is for the user to retrieve their own data from the [link provided
 
 The user must have a working ruby setup (I dont think version matters at all). [SEE THIS LINK FOR DIRECTIONS ON INSTALLING RUBY](https://www.ruby-lang.org/en/documentation/installation/)
 
-The user must run the ruby script titled 'script_to_show_pennsylvania_discrepancy.rb' in this repository
+The user must run the [ruby script titled 'script_to_show_pennsylvania_discrepancy.rb'](script_to_show_pennsylvania_discrepancy.rb) in this repository
 
 When prompted by the script, the  user must provide the path  to the csv data that they  downloaded locally.
 
