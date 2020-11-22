@@ -1,5 +1,9 @@
 # Replicating Results of the Returned-before-mailed-in ballot anomaly in Pennsylvania (as per Greg On The Right)
 
+This repo has been saved to archive.org for future reference:
+
+https://web.archive.org/web/20201122054408/https://github.com/mabiesen/replicating_pa_mail_in_ballot_returned_anomaly/blob/main/script_to_show_pennsylvania_discrepancy.rb
+
 The purpose of this repository is to replicate the work of 'Greg on the right', who discovered that Pennsylvania ballots had a return date that occurred before the ballots mailed in date(as per Pennsylvanias own online, once-publicly-available data). Gregs original Tik-Tok post didnt share the source url, we share this detail in this repository as well as a link to the article where one can view gregs tik tok.
 
 Why did I get so interested in  this?  1) tik tok removed "greg on the right"'s video,  2) Pennsylvania tried to remove the source data (its gone but not forgotten! see the archive.org link in the RESOURCES section of this document)
