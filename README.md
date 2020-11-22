@@ -15,10 +15,10 @@ No credence was given to the claim until the results were replicated
 
 Here is the output of my script:
 ```
-Total count for ballots returned before mailed: 23305
-Total count for ballots whose return date is equal to the mailed date: 34916
-
-IN TOTAL:  this is the count of ballots returned on or before the mailed date: 58221
+THESE ARE THE REULTS
+Count of ballots returned before mailed-in date:  23305
+Count of ballots returned on mailed-in date: 34916
+TOTAL COUNT ballots returned on-or-before-mailed-in-date: 58221
 ```
 
 ## RESOURCES
