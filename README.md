@@ -41,7 +41,7 @@ The article which sparked my inquiry may be found here:
 
 https://web.archive.org/web/20201121213002/https://www.thegatewaypundit.com/2020/11/breaking-video-young-internet-sleuth-reveals-evidence-showing-23k-pa-ballots-filled-returned-ever-mailed-voters/
 
-The source data greg references was removed from the pennsylvania website.
+The source data greg references was removed from the Pennsylvania website.
 
 However, after some sleuthing, the URL to retrieve data has been discovered to exist at archive.org
 
