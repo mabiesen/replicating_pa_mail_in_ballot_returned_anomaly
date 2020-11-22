@@ -17,7 +17,7 @@ This repository seeks to store the information in such a way that anyone may rep
 
 ## REPLICATING RESULTS
 
-The intention is for the user to retrieve their own data from the [link provided in the RESOURCES section](## resources) of this page
+The intention is for the user to retrieve their own data from the [link provided in the RESOURCES section](#resources) of this page
 
 The user must have a working ruby setup (I dont think version matters at all).
 
