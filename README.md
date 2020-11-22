@@ -65,6 +65,6 @@ A: If I store the data in this repository one might accuse me of having manipula
 
 Q: What do the different columns of the csv data actually mean?
 
-A: Greg on the right, in his video, shows an expleanation  for each column in the dataset.  It was not the purpose of this study to evaluate what the columns mean, the only goal of this repository is to prove that Greg had access to data (now taken away by PA authorities), and that Greg was attempting  his best efforts at analysis by comparing the returned and mailed dates.
+A: Greg on the right, in his video, shows an explanation  for each column in the dataset.  It was not the purpose of this study to evaluate what the columns mean, the only goal of this repository is to prove that Greg had access to data (now taken away by PA authorities), and that Greg was attempting  his best efforts at analysis by comparing the returned and mailed dates.
 
 I've seen what happened to the Covington kids, I've seen what's happened to those in the media who decide to air Trump-endorsed phenomenon.  This repository is me doing my part to prevent mischaractarization of those who challenge mainstream authority. If it is determined a misunderstanding occurred, so-be-it, nonetheless this kid "Greg On the Right" did his best to uncover faulty practices, I intend to help him keep his good name by showing the data exist and his analysis is replicable.
