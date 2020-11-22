@@ -6,7 +6,7 @@ https://web.archive.org/web/20201122054408/https://github.com/mabiesen/replicati
 
 The purpose of this repository is to replicate the work of 'Greg on the right', who discovered that Pennsylvania ballots had a return date that occurred before the ballots mailed in date(as per Pennsylvanias own online, once-publicly-available data). Gregs original Tik-Tok post didnt share the source url, we share this detail in this repository as well as a link to the article where one can view Gregs Tik-Tok.
 
-Why did I get so interested in  this?  1) Tik-Tok removed "Greg on the right"'s video,  2) Pennsylvania tried to remove the source data (its gone but not forgotten! see the archive.org link in the RESOURCES section of this document),  3) Data should always be replicated by a peer, in full transparency, before it is considered truth.
+Why did I get so interested in  this?  1) Tik-Tok removed "Greg on the right"'s video,  2) Pennsylvania tried to remove the source data (its gone but not forgotten! see the archive.org link in the RESOURCES section of this document),  3) The result of research should always be replicated by a peer, in full transparency, before it is considered truth.
 
 This repository seeks to store the information in such a way that anyone may replicate the results
 
