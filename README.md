@@ -19,7 +19,7 @@ This repository seeks to store the information in such a way that anyone may rep
 
 The intention is for the user to retrieve their own data from the [link provided in the RESOURCES section](#resources) of this page
 
-The user must have a working ruby setup (I dont think version matters at all).
+The user must have a working ruby setup (I dont think version matters at all). [SEE THIS LINK FOR DIRECTIONS ON INSTALLING RUBY](https://www.ruby-lang.org/en/documentation/installation/)
 
 The user must run the ruby script titled 'script_to_show_pennsylvania_discrepancy.rb' in this repository
 
