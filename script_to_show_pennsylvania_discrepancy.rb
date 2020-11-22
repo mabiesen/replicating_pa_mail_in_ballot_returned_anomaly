@@ -1,5 +1,10 @@
 require 'csv'
 
+# this script, if loaded into  an irb  console, will  expose to you:
+# 1. the raw csv data
+# 2. csv data related to returns-before-mailed-in date: $ballots_returned_before_mailed
+# 3. csv_data related to returns equalling mailed-in-date: $ballots_returned_on_mailed_date
+
 BALLOT_RETURNED_DATE = 'Ballot Returned Date'
 BALLOT_MAILED_DATE = 'Ballot Mailed Date'
 
