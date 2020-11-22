@@ -1,4 +1,4 @@
-# Replicating Results of the Returned-before-mailed-in ballot anomaly in pennsylvania
+# Replicating Results of the Returned-before-mailed-in ballot anomaly in Pennsylvania (as per Greg On The Right)
 
 The purpose of this repository is to replicate the work. of 'Greg on the right' and store the information in. such a way that anyone may replicate the results
 
