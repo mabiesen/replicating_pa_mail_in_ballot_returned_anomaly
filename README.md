@@ -18,7 +18,7 @@ https://web.archive.org/web/20201121213002/https://www.thegatewaypundit.com/2020
 
 The source data greg references was removed from the pennsylvania website.
 
-However, after some sleuthing, the URL to retrieve data has been discovered
+However, after some sleuthing, the URL to retrieve data has been discovered to exist at archive.org
 
 The following link is the parent page which exposes this data:
 
